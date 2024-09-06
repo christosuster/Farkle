@@ -1,0 +1,20 @@
+In the custom C++ Farkles game, players compete to reach a goal of 5000 points by rolling dice and scoring based on specific combinations. The game is played with a set of dice, and each roll presents an opportunity to score points or risk accumulating Farkles. Scoring is based on the following combinations:
+
+Scoring Rules:
+
+3 of 1s: 1000 points
+4 of any number: 1000 points
+3 of 2s: 200 points
+5 of any number: 2000 points
+3 of 3s: 300 points
+6 of any number: 3000 points
+3 of 4s: 400 points
+1-6 Straight: 1500 points
+3 of 5s: 500 points
+Three Pairs: 1500 points
+3 of 6s: 600 points
+4 of any number + a Pair: 1500 points
+Two Triplets: 2500 points
+To begin, players roll a set of dice and score points based on the combinations achieved. Players may choose to set aside dice that have scored and re-roll the remaining dice to try and accumulate more points. However, rolling three consecutive Farkles—where no scoring dice are achieved—results in an immediate loss. This rule adds an element of risk to the game, as players must carefully decide whether to continue rolling or bank their points to avoid losing them.
+
+The game continues until a player reaches the target of 5000 points. The first player to achieve this goal wins the game. The combination of strategic decision-making and chance makes Farkles both engaging and unpredictable, offering a dynamic and exciting experience for players.

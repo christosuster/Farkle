@@ -1,0 +1,3 @@
+C:/Projects/Personal Projects/Farkle/cmake-build-debug/CMakeFiles/Farkle.dir
+C:/Projects/Personal Projects/Farkle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/Personal Projects/Farkle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
